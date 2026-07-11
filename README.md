@@ -10,9 +10,9 @@ I like solving complicated problems, discussing software architecture, and helpi
 
 Here's some things I've built:
 
-- [ERP Platform]([https://github.com/mhasansagor/erp-platform](https://www.berrylabs.net/our_service/ais))
-- [E-Commerce]([https://github.com/mhasansagor/multi-tenant-saas](https://miah.shop/))
-- [Newspaper]([https://github.com/mhasansagor/hr-payroll](https://newspaper-cyan-nine.vercel.app/))
-- [Flight Search App]([https://github.com/mhasansagor/accounting-system](https://flight-search-app-beta.vercel.app/))
-- [SchholMangement Software]([https://github.com/mhasansagor/ai-project](https://acad-manage.vercel.app/))
+- [ERP Platform](https://www.berrylabs.net/our_service/ais)
+- [E-Commerce](https://miah.shop/)
+- [Newspaper](https://newspaper-cyan-nine.vercel.app/)
+- [Flight Search App](https://flight-search-app-beta.vercel.app/)
+- [School Management Software](https://acad-manage.vercel.app/)
 - [AI Interviewer](https://github.com/mhasansagor/component-library)
