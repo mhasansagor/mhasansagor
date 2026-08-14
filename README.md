@@ -10,6 +10,15 @@ I like solving complicated problems, discussing software architecture, and helpi
 
 Here's some things I've built:
 
+<img src="https://mauriciospark.github.io/coreIcons/fotos/postgresql.png" height="45" alt="postgresql logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/reactnative.png" height="45" alt="react logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/nodejs.png" height="45" alt="nodejs logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/postgresql.png" height="45" alt="postgresql logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/go.png" height="45" alt="go logo"/>
+
+<!--Hi! I really liked your profile. I just added icons to your readme based on the technologies you use. If you'd like to check out my library, here is the link: https://mauriciospark.github.io/coreIcons/  -->
+
+
 - [ERP Platform](https://www.berrylabs.net/our_service/ais)
 - [E-Commerce](https://miah.shop/)
 - [Newspaper](https://newspaper-cyan-nine.vercel.app/)
